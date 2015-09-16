@@ -1,5 +1,1 @@
-Setup your own proxy server using Google App Engine
-
-Tutorial: http://www.labnol.org/internet/setup-proxy-server/12890/
-
-Video: https://www.youtube.com/watch?v=3f6Zq4prys0
+Simple proxy server that, by experience, works better than others. Can easily be replicated in case one host site gets blocked. You can create mirrors, but PLEASE DO THIS SPARINGLY!!!! I do not want this to become famous and also get blocked :( 
